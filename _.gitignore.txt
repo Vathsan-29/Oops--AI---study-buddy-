@@ -1,0 +1,6 @@
+study_buddy
+study_buddy.exe
+*.o
+subjects.txt
+quizzes.txt
+sessions.txt
